@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+#cabecalho {
+    background: red;
+    text-align: center;
+    width: auto;
+    padding: 40px;
+    margin: auto;
+    clear: both;
+    border: inset rgb(109, 10, 10);
+    font-size: large;
+}
+
+#conteudo {
+    background: rgb(170, 153, 153);
+    text-align: center;
+    padding: 20px;
+}
+
+#menu {
+    text-align: center;
+    background: red;
+}
+
+#caixa-lateral {
+    float: right;
+    width: 300px;
+    background: white;
+    text-align: center;
+    margin: 60px;
+    border-bottom: 1px dotted grey;
+}
+
+.alinhar {
+    text-align: center;
+}
+
+.margem {
+    margin: 10px;
+}
+
+h2 {
+    text-align: center;
+}
+
+a:link, a:visited {
+    color: #180911;;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+span, a {
+    background: red;
+} 
+
+blockquote {
+    font-size: 0.8em;
+    font: black;
+    text-align: center;
+
+}
+
+p {
+    background: rgb(61, 124, 218);
+    text-align: center; 
+    padding: 10px;
+}
+
